@@ -23,5 +23,3 @@ jobs:
           git commit -m "generated"
           git push
 
-          git remote add origin https://github.com/HyungJu19/HyungJu19.git
-          git push --set-upstream origin main
