@@ -4,7 +4,6 @@ on:
   schedule: # 03:00 JST == 18:00 UTC
     - cron: "0 18 * * *"
 
-    #schedule > cron 에 적힌 숫자는 workflow가 하루에 한 번씩 reset되는 시간입니다. UTC 기준으로 작성해야 합니다.
   workflow_dispatch:
 
 jobs:
