@@ -1,9 +1,10 @@
 
-
+![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Hyungju1991%202024&fontSize=90)
 
 <div align="center">
 
-# Hyungjy19
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyungju19&theme=tokyonight)](https://git.io/streak-stats)
+
 
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
@@ -76,9 +77,17 @@
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
 )
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 </summary>
    <br>
 
+<summary>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 기술블로그
+
+![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+
+</summary>
+   <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungju19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -86,7 +95,5 @@
 
 
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hyungju19&theme=dark&hide_border=true&locale=ko)](https://git.io/streak-stats)
 
 </div>
