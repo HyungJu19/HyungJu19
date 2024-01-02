@@ -93,7 +93,7 @@
 
 
 
-![](./profile-3d-contrib/profile-night rainbow-animate.svg)
+![](./profile-3d-contrib/profile-nightrainbow-animate.svg)
 
 
 </div>
