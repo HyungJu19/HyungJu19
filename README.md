@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Hyungju1991%202024&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=white&height=300&section=header&text=Hyungju1991%202024&fontSize=90)
 
 <div align="center">
 
