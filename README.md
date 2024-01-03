@@ -25,7 +25,7 @@
 )
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 )
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white
 )
 ![springsecurity](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
@@ -56,10 +56,18 @@
 
 
 
+   <br>
 
 
 
    <br>
+
+
+### **📜Songminho Portfolio📜**
+### 👉   https://github.com/HyungJu19/portfolio
+
+<br>
+ <br>
 
 ### **😆Like😆**
 
@@ -79,8 +87,10 @@
 </a>
 
 
-<br>
-<br>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyungju91&theme=vue-dark&postId=)](https://github.com/loosie/github-readme-tistory-card)
+
+
+
 <br>
 <br>
 
