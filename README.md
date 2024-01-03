@@ -13,14 +13,7 @@
 <br>
 <br>
 
-### **🔥1day commit🔥**
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyungju19&theme=tokyonight)](https://git.io/streak-stats)
-
-
-<br>
-<br>
 
 ### **🪃Tech Stack🪃** 
 
@@ -86,8 +79,15 @@
 </a>
 
 
+<br>
+<br>
+<br>
+<br>
+
+### **🔥1day commit🔥**
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyungju19&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
