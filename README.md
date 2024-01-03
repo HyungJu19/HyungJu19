@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
 
-  .no-link {
-    pointer-events: none; /* 클릭 이벤트 비활성화 */
-  }
-
-</style>
-</head>
-<body>
 
 
 
@@ -92,6 +81,9 @@
 <a href="https://hyungju91.tistory.com/">
   <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="블로그">
 </a>
+<a href="mailto:hyungju911@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="지메일">
+</a>
 
 
 
@@ -102,5 +94,3 @@
 
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-</body>
-</html>
