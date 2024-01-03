@@ -1,9 +1,14 @@
+# **Hi there👋**
+<div align="">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=random&height=300&section=header&text=Hyungju1991%202024&fontSize=90)
 
-<div align="center">
+### **🔥1day commit🔥**
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hyungju19&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
 
 
 <summary>
@@ -19,6 +24,7 @@
 )
 </summary>
    <br>
+
 <summary>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 재미있는 ... 
 
@@ -67,7 +73,6 @@
 
 
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 사용툴 ... 
 
 ![gitgub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
@@ -82,14 +87,13 @@
    <br>
 
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 기술블로그
 
+### **⭐Tech blog⭐**
 ![blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 </summary>
    <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungju19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -97,3 +101,5 @@
 
 
 </div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
