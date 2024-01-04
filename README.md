@@ -80,7 +80,7 @@
 ### **⭐Tech blog⭐**
 
 <a href="https://hyungju91.tistory.com/">
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="블로그">
+  <img src="https://img.shields.io/badge/tstory-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="블로그">
 </a>
 <a href="mailto:hyungju911@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="지메일">
