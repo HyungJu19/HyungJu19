@@ -87,7 +87,7 @@
 </a>
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyungju91&theme=vue-dark&postId=)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyungju91&postId=&theme=vue-dark)](https://hyungju91.tistory.com/category)
 
 
 
