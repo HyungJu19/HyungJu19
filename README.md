@@ -59,7 +59,7 @@
    <br>
 
 
-### **📜Songminho Portfolio📜**
+# 📜 송민호 포트폴리오
 ### 👉   https://github.com/HyungJu19/portfolio
 
 <br>
