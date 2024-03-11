@@ -81,8 +81,6 @@
 </a>
 
 
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=hyungju91&postId=&theme=vue-dark)](https://hyungju91.tistory.com/category)
-
 
 
 <br>
