@@ -63,7 +63,7 @@
 ### 👉   https://github.com/HyungJu19/portfolio
 
 ## 2차프로젝트 발표영상 ##
-### 👉   https://m.youtube.com/watch?v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t=93s&pp=iAQB
+### 👉   https://www.youtube.com/watch?app=desktop&v=KxYGJm4qiCs&list=PLedGoSru794_gV9NDzrzhk2PsJGThG23p&index=2&t
 <br>
  <br>
 
